@@ -3,5 +3,6 @@
 #### Email: dtw3200@live.com
 #### Image:
 <img src="Images/GitPic.PNG" width="300">
+
 #### Avatar:
 <img src="Images/Avatar.PNG" width="300">
