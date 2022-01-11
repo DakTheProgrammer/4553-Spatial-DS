@@ -4,4 +4,4 @@
 #### Image:
 <img src="Images/GitPic.PNG" width="300">
 #### Avatar:
-<img src="Images/GitPic.PNG" width="300">
+<img src="Images/Avatar.PNG" width="300">
