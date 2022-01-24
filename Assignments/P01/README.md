@@ -6,12 +6,12 @@ Used a JSON file full of city data on the major citties of the United States to 
 
 ### Files
 
-|   #   | File                      | Description                                                 |
-| :---: | ------------------------- | ----------------------------------------------------------- |
-|   1   | Main.py                   | Main file that process all data and makes the GeoJson       |
-|   2   | cities_latlon_w_pop.json  | File with data on all major cities                          |
-|   3   | Routes.geojson            | File that is used to mark the map                           |
-|   4   | GeoImage.jpg              | Images of final map made from GeoJson file                  |
+|   #   | File                                                                                                                              | Description                                                 |
+| :---: | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+|   1   | Main.py(https://github.com/DakTheProgrammer/4553-Spatial-DS/blob/main/Assignments/P01/Main.py)                                    | Main file that process all data and makes the GeoJson       |
+|   2   | cities_latlon_w_pop.json(https://github.com/DakTheProgrammer/4553-Spatial-DS/blob/main/Assignments/P01/cities_latlon_w_pop.json)  | File with data on all major cities                          |
+|   3   | Routes.geojson(https://github.com/DakTheProgrammer/4553-Spatial-DS/blob/main/Assignments/P01/Routes.geojson)                      | File that is used to mark the map                           |
+|   4   | GeoImage.jpg(https://github.com/DakTheProgrammer/4553-Spatial-DS/blob/main/Assignments/P01/GeoImage.jpg)                          | Images of final map made from GeoJson file                  |
 
 ### Instructions
 
