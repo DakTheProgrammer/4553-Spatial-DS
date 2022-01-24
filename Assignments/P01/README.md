@@ -21,6 +21,6 @@ Used a JSON file full of city data on the major citties of the United States to 
     - `python main.py`
 
 ### Link to GeoJson Gist: 
-    - https://gist.github.com/DakTheProgrammer/ded481a0bbf6bed7ca3ab755e1f920b2
+- https://gist.github.com/DakTheProgrammer/ded481a0bbf6bed7ca3ab755e1f920b2
 
 <img src="GeoImage.jpg" width="1000">
