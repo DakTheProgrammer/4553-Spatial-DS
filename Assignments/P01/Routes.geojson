@@ -1,0 +1,1994 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#4b527d",
+                "marker-size": "medium",
+                "marker-symbol": 1,
+                "city": "Portland",
+                "growth": 15,
+                "latitude": 45.5230622,
+                "longitude": -122.6764816,
+                "population": 609456,
+                "state": "Oregon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6764816,
+                    45.5230622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#4b527d",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -122.6764816,
+                        45.5230622
+                    ],
+                    [
+                        -122.3320708,
+                        47.6062095
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#1e4b45",
+                "marker-size": "medium",
+                "marker-symbol": 2,
+                "city": "Seattle",
+                "growth": 15.6,
+                "latitude": 47.6062095,
+                "longitude": -122.3320708,
+                "population": 652405,
+                "state": "Washington"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3320708,
+                    47.6062095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#1e4b45",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -122.3320708,
+                        47.6062095
+                    ],
+                    [
+                        -118.2436849,
+                        34.0522342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#286df9",
+                "marker-size": "medium",
+                "marker-symbol": 3,
+                "city": "Los Angeles",
+                "growth": 4.8,
+                "latitude": 34.0522342,
+                "longitude": -118.2436849,
+                "population": 3884307,
+                "state": "California"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2436849,
+                    34.0522342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#286df9",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -118.2436849,
+                        34.0522342
+                    ],
+                    [
+                        -116.2146068,
+                        43.6187102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004a00",
+                "marker-size": "medium",
+                "marker-symbol": 4,
+                "city": "Boise City",
+                "growth": 9.5,
+                "latitude": 43.6187102,
+                "longitude": -116.2146068,
+                "population": 214237,
+                "state": "Idaho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2146068,
+                    43.6187102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#004a00",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -116.2146068,
+                        43.6187102
+                    ],
+                    [
+                        -115.1398296,
+                        36.1699412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#4a296c",
+                "marker-size": "medium",
+                "marker-symbol": 5,
+                "city": "Las Vegas",
+                "growth": 24.5,
+                "latitude": 36.1699412,
+                "longitude": -115.1398296,
+                "population": 603488,
+                "state": "Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1398296,
+                    36.1699412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#4a296c",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -115.1398296,
+                        36.1699412
+                    ],
+                    [
+                        -112.0740373,
+                        33.4483771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#87e18b",
+                "marker-size": "medium",
+                "marker-symbol": 6,
+                "city": "Phoenix",
+                "growth": 14,
+                "latitude": 33.4483771,
+                "longitude": -112.0740373,
+                "population": 1513367,
+                "state": "Arizona"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0740373,
+                    33.4483771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#87e18b",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -112.0740373,
+                        33.4483771
+                    ],
+                    [
+                        -111.8910474,
+                        40.7607793
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#af8218",
+                "marker-size": "medium",
+                "marker-symbol": 7,
+                "city": "Salt Lake City",
+                "growth": 5.1,
+                "latitude": 40.7607793,
+                "longitude": -111.8910474,
+                "population": 191180,
+                "state": "Utah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8910474,
+                    40.7607793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#af8218",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -111.8910474,
+                        40.7607793
+                    ],
+                    [
+                        -108.5006904,
+                        45.7832856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#d448b3",
+                "marker-size": "medium",
+                "marker-symbol": 8,
+                "city": "Billings",
+                "growth": 18.6,
+                "latitude": 45.7832856,
+                "longitude": -108.5006904,
+                "population": 109059,
+                "state": "Montana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.5006904,
+                    45.7832856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#d448b3",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -108.5006904,
+                        45.7832856
+                    ],
+                    [
+                        -106.6055534,
+                        35.0853336
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#1aea6d",
+                "marker-size": "medium",
+                "marker-symbol": 9,
+                "city": "Albuquerque",
+                "growth": 23.5,
+                "latitude": 35.0853336,
+                "longitude": -106.6055534,
+                "population": 556495,
+                "state": "New Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6055534,
+                    35.0853336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#1aea6d",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -106.6055534,
+                        35.0853336
+                    ],
+                    [
+                        -104.990251,
+                        39.7392358
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#966d37",
+                "marker-size": "medium",
+                "marker-symbol": 10,
+                "city": "Denver",
+                "growth": 16.7,
+                "latitude": 39.7392358,
+                "longitude": -104.990251,
+                "population": 649495,
+                "state": "Colorado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.990251,
+                    39.7392358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#966d37",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -104.990251,
+                        39.7392358
+                    ],
+                    [
+                        -104.8202462,
+                        41.1399814
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#a0713d",
+                "marker-size": "medium",
+                "marker-symbol": 11,
+                "city": "Cheyenne",
+                "growth": 16.9,
+                "latitude": 41.1399814,
+                "longitude": -104.8202462,
+                "population": 62448,
+                "state": "Wyoming"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.8202462,
+                    41.1399814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#a0713d",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -104.8202462,
+                        41.1399814
+                    ],
+                    [
+                        -97.5164276,
+                        35.4675602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#fc6afc",
+                "marker-size": "medium",
+                "marker-symbol": 12,
+                "city": "Oklahoma City",
+                "growth": 20.2,
+                "latitude": 35.4675602,
+                "longitude": -97.5164276,
+                "population": 610613,
+                "state": "Oklahoma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5164276,
+                    35.4675602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#fc6afc",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.5164276,
+                        35.4675602
+                    ],
+                    [
+                        -97.336111,
+                        37.688889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#909ee6",
+                "marker-size": "medium",
+                "marker-symbol": 13,
+                "city": "Wichita",
+                "growth": 9.7,
+                "latitude": 37.688889,
+                "longitude": -97.336111,
+                "population": 386552,
+                "state": "Kansas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.336111,
+                    37.688889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#909ee6",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.336111,
+                        37.688889
+                    ],
+                    [
+                        -96.7898034,
+                        46.8771863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#8d92b3",
+                "marker-size": "medium",
+                "marker-symbol": 14,
+                "city": "Fargo",
+                "growth": 24.9,
+                "latitude": 46.8771863,
+                "longitude": -96.7898034,
+                "population": 113658,
+                "state": "North Dakota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7898034,
+                    46.8771863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#8d92b3",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.7898034,
+                        46.8771863
+                    ],
+                    [
+                        -96.73110340000001,
+                        43.5445959
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0982ba",
+                "marker-size": "medium",
+                "marker-symbol": 15,
+                "city": "Sioux Falls",
+                "growth": 31.1,
+                "latitude": 43.5445959,
+                "longitude": -96.73110340000001,
+                "population": 164676,
+                "state": "South Dakota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.73110340000001,
+                    43.5445959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#0982ba",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.73110340000001,
+                        43.5445959
+                    ],
+                    [
+                        -95.99798829999999,
+                        41.2523634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#b56bbc",
+                "marker-size": "medium",
+                "marker-symbol": 16,
+                "city": "Omaha",
+                "growth": 5.9,
+                "latitude": 41.2523634,
+                "longitude": -95.99798829999999,
+                "population": 434353,
+                "state": "Nebraska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.99798829999999,
+                    41.2523634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#b56bbc",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -95.99798829999999,
+                        41.2523634
+                    ],
+                    [
+                        -95.3698028,
+                        29.7604267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#f18ad8",
+                "marker-size": "medium",
+                "marker-symbol": 17,
+                "city": "Houston",
+                "growth": 11,
+                "latitude": 29.7604267,
+                "longitude": -95.3698028,
+                "population": 2195914,
+                "state": "Texas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3698028,
+                    29.7604267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#f18ad8",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -95.3698028,
+                        29.7604267
+                    ],
+                    [
+                        -94.5785667,
+                        39.0997265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#4dec44",
+                "marker-size": "medium",
+                "marker-symbol": 18,
+                "city": "Kansas City",
+                "growth": 5.5,
+                "latitude": 39.0997265,
+                "longitude": -94.5785667,
+                "population": 467007,
+                "state": "Missouri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5785667,
+                    39.0997265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#4dec44",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -94.5785667,
+                        39.0997265
+                    ],
+                    [
+                        -93.6091064,
+                        41.6005448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#883101",
+                "marker-size": "medium",
+                "marker-symbol": 19,
+                "city": "Des Moines",
+                "growth": 3.9,
+                "latitude": 41.6005448,
+                "longitude": -93.6091064,
+                "population": 207510,
+                "state": "Iowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6091064,
+                    41.6005448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#883101",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -93.6091064,
+                        41.6005448
+                    ],
+                    [
+                        -93.2650108,
+                        44.977753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#a0e2bb",
+                "marker-size": "medium",
+                "marker-symbol": 20,
+                "city": "Minneapolis",
+                "growth": 4.5,
+                "latitude": 44.977753,
+                "longitude": -93.2650108,
+                "population": 400070,
+                "state": "Minnesota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2650108,
+                    44.977753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#a0e2bb",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -93.2650108,
+                        44.977753
+                    ],
+                    [
+                        -92.28959479999999,
+                        34.7464809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#71ac92",
+                "marker-size": "medium",
+                "marker-symbol": 21,
+                "city": "Little Rock",
+                "growth": 7.6,
+                "latitude": 34.7464809,
+                "longitude": -92.28959479999999,
+                "population": 197357,
+                "state": "Arkansas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.28959479999999,
+                    34.7464809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#71ac92",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -92.28959479999999,
+                        34.7464809
+                    ],
+                    [
+                        -90.1848103,
+                        32.2987573
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#555f92",
+                "marker-size": "medium",
+                "marker-symbol": 22,
+                "city": "Jackson",
+                "growth": -6.8,
+                "latitude": 32.2987573,
+                "longitude": -90.1848103,
+                "population": 172638,
+                "state": "Mississippi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1848103,
+                    32.2987573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555f92",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -90.1848103,
+                        32.2987573
+                    ],
+                    [
+                        -90.0715323,
+                        29.95106579999999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#db3f86",
+                "marker-size": "medium",
+                "marker-symbol": 23,
+                "city": "New Orleans",
+                "growth": -21.6,
+                "latitude": 29.95106579999999,
+                "longitude": -90.0715323,
+                "population": 378715,
+                "state": "Louisiana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0715323,
+                    29.95106579999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#db3f86",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -90.0715323,
+                        29.95106579999999
+                    ],
+                    [
+                        -90.0489801,
+                        35.1495343
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#2ff233",
+                "marker-size": "medium",
+                "marker-symbol": 24,
+                "city": "Memphis",
+                "growth": -5.3,
+                "latitude": 35.1495343,
+                "longitude": -90.0489801,
+                "population": 653450,
+                "state": "Tennessee"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0489801,
+                    35.1495343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#2ff233",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -90.0489801,
+                        35.1495343
+                    ],
+                    [
+                        -87.9064736,
+                        43.0389025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#e20b69",
+                "marker-size": "medium",
+                "marker-symbol": 25,
+                "city": "Milwaukee",
+                "growth": 0.3,
+                "latitude": 43.0389025,
+                "longitude": -87.9064736,
+                "population": 599164,
+                "state": "Wisconsin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9064736,
+                    43.0389025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#e20b69",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -87.9064736,
+                        43.0389025
+                    ],
+                    [
+                        -87.6297982,
+                        41.8781136
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ddd262",
+                "marker-size": "medium",
+                "marker-symbol": 26,
+                "city": "Chicago",
+                "growth": -6.1,
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "population": 2718782,
+                "state": "Illinois"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6297982,
+                    41.8781136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#ddd262",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -87.6297982,
+                        41.8781136
+                    ],
+                    [
+                        -86.80248999999999,
+                        33.5206608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#261a3b",
+                "marker-size": "medium",
+                "marker-symbol": 27,
+                "city": "Birmingham",
+                "growth": -12.3,
+                "latitude": 33.5206608,
+                "longitude": -86.80248999999999,
+                "population": 212113,
+                "state": "Alabama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.80248999999999,
+                    33.5206608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#261a3b",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -86.80248999999999,
+                        33.5206608
+                    ],
+                    [
+                        -86.158068,
+                        39.768403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#fde317",
+                "marker-size": "medium",
+                "marker-symbol": 28,
+                "city": "Indianapolis",
+                "growth": 7.8,
+                "latitude": 39.768403,
+                "longitude": -86.158068,
+                "population": 843393,
+                "state": "Indiana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.158068,
+                    39.768403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#fde317",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -86.158068,
+                        39.768403
+                    ],
+                    [
+                        -85.7584557,
+                        38.2526647
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#9fcc82",
+                "marker-size": "medium",
+                "marker-symbol": 29,
+                "city": "Louisville/Jefferson County",
+                "growth": 10,
+                "latitude": 38.2526647,
+                "longitude": -85.7584557,
+                "population": 609893,
+                "state": "Kentucky"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7584557,
+                    38.2526647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#9fcc82",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.7584557,
+                        38.2526647
+                    ],
+                    [
+                        -84.3879824,
+                        33.7489954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#b7ed5b",
+                "marker-size": "medium",
+                "marker-symbol": 30,
+                "city": "Atlanta",
+                "growth": 6.2,
+                "latitude": 33.7489954,
+                "longitude": -84.3879824,
+                "population": 447841,
+                "state": "Georgia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3879824,
+                    33.7489954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#b7ed5b",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -84.3879824,
+                        33.7489954
+                    ],
+                    [
+                        -83.0457538,
+                        42.331427
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#228e51",
+                "marker-size": "medium",
+                "marker-symbol": 31,
+                "city": "Detroit",
+                "growth": -27.1,
+                "latitude": 42.331427,
+                "longitude": -83.0457538,
+                "population": 688701,
+                "state": "Michigan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0457538,
+                    42.331427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#228e51",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.0457538,
+                        42.331427
+                    ],
+                    [
+                        -82.99879419999999,
+                        39.9611755
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#a68c5f",
+                "marker-size": "medium",
+                "marker-symbol": 32,
+                "city": "Columbus",
+                "growth": 14.8,
+                "latitude": 39.9611755,
+                "longitude": -82.99879419999999,
+                "population": 822553,
+                "state": "Ohio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.99879419999999,
+                    39.9611755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#a68c5f",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -82.99879419999999,
+                        39.9611755
+                    ],
+                    [
+                        -81.65565099999999,
+                        30.3321838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#89de84",
+                "marker-size": "medium",
+                "marker-symbol": 33,
+                "city": "Jacksonville",
+                "growth": 14.3,
+                "latitude": 30.3321838,
+                "longitude": -81.65565099999999,
+                "population": 842583,
+                "state": "Florida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.65565099999999,
+                    30.3321838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#89de84",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -81.65565099999999,
+                        30.3321838
+                    ],
+                    [
+                        -81.6326234,
+                        38.3498195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#1d2898",
+                "marker-size": "medium",
+                "marker-symbol": 34,
+                "city": "Charleston",
+                "growth": -4.7,
+                "latitude": 38.3498195,
+                "longitude": -81.6326234,
+                "population": 50821,
+                "state": "West Virginia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6326234,
+                    38.3498195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#1d2898",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -81.6326234,
+                        38.3498195
+                    ],
+                    [
+                        -81.0348144,
+                        34.0007104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#34dc76",
+                "marker-size": "medium",
+                "marker-symbol": 35,
+                "city": "Columbia",
+                "growth": 11.7,
+                "latitude": 34.0007104,
+                "longitude": -81.0348144,
+                "population": 133358,
+                "state": "South Carolina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0348144,
+                    34.0007104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#34dc76",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -81.0348144,
+                        34.0007104
+                    ],
+                    [
+                        -80.8431267,
+                        35.2270869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#2e0bdf",
+                "marker-size": "medium",
+                "marker-symbol": 36,
+                "city": "Charlotte",
+                "growth": 39.1,
+                "latitude": 35.2270869,
+                "longitude": -80.8431267,
+                "population": 792862,
+                "state": "North Carolina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8431267,
+                    35.2270869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#2e0bdf",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -80.8431267,
+                        35.2270869
+                    ],
+                    [
+                        -77.0368707,
+                        38.9071923
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#645150",
+                "marker-size": "medium",
+                "marker-symbol": 37,
+                "city": "Washington",
+                "growth": 13,
+                "latitude": 38.9071923,
+                "longitude": -77.0368707,
+                "population": 646449,
+                "state": "District of Columbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0368707,
+                    38.9071923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#645150",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0368707,
+                        38.9071923
+                    ],
+                    [
+                        -76.6121893,
+                        39.2903848
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#9993e6",
+                "marker-size": "medium",
+                "marker-symbol": 38,
+                "city": "Baltimore",
+                "growth": -4,
+                "latitude": 39.2903848,
+                "longitude": -76.6121893,
+                "population": 622104,
+                "state": "Maryland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6121893,
+                    39.2903848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#9993e6",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.6121893,
+                        39.2903848
+                    ],
+                    [
+                        -75.97798499999999,
+                        36.8529263
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#c59844",
+                "marker-size": "medium",
+                "marker-symbol": 39,
+                "city": "Virginia Beach",
+                "growth": 5.1,
+                "latitude": 36.8529263,
+                "longitude": -75.97798499999999,
+                "population": 448479,
+                "state": "Virginia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.97798499999999,
+                    36.8529263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#c59844",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -75.97798499999999,
+                        36.8529263
+                    ],
+                    [
+                        -75.5397878,
+                        39.7390721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#eadafb",
+                "marker-size": "medium",
+                "marker-symbol": 40,
+                "city": "Wilmington",
+                "growth": -1.6,
+                "latitude": 39.7390721,
+                "longitude": -75.5397878,
+                "population": 71525,
+                "state": "Delaware"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5397878,
+                    39.7390721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#eadafb",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -75.5397878,
+                        39.7390721
+                    ],
+                    [
+                        -75.1652215,
+                        39.9525839
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#8303af",
+                "marker-size": "medium",
+                "marker-symbol": 41,
+                "city": "Philadelphia",
+                "growth": 2.6,
+                "latitude": 39.9525839,
+                "longitude": -75.1652215,
+                "population": 1553165,
+                "state": "Pennsylvania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1652215,
+                    39.9525839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#8303af",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -75.1652215,
+                        39.9525839
+                    ],
+                    [
+                        -74.1723667,
+                        40.735657
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#c38099",
+                "marker-size": "medium",
+                "marker-symbol": 42,
+                "city": "Newark",
+                "growth": 2.1,
+                "latitude": 40.735657,
+                "longitude": -74.1723667,
+                "population": 278427,
+                "state": "New Jersey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1723667,
+                    40.735657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#c38099",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -74.1723667,
+                        40.735657
+                    ],
+                    [
+                        -74.0059413,
+                        40.7127837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#1b4ee8",
+                "marker-size": "medium",
+                "marker-symbol": 43,
+                "city": "New York",
+                "growth": 4.8,
+                "latitude": 40.7127837,
+                "longitude": -74.0059413,
+                "population": 8405837,
+                "state": "New York"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0059413,
+                    40.7127837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#1b4ee8",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -74.0059413,
+                        40.7127837
+                    ],
+                    [
+                        -73.21207199999999,
+                        44.4758825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#5bb162",
+                "marker-size": "medium",
+                "marker-symbol": 44,
+                "city": "Burlington",
+                "growth": 6.1,
+                "latitude": 44.4758825,
+                "longitude": -73.21207199999999,
+                "population": 42284,
+                "state": "Vermont"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.21207199999999,
+                    44.4758825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#5bb162",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -73.21207199999999,
+                        44.4758825
+                    ],
+                    [
+                        -73.19517669999999,
+                        41.1865478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#916709",
+                "marker-size": "medium",
+                "marker-symbol": 45,
+                "city": "Bridgeport",
+                "growth": 5.4,
+                "latitude": 41.1865478,
+                "longitude": -73.19517669999999,
+                "population": 147216,
+                "state": "Connecticut"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.19517669999999,
+                    41.1865478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#916709",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -73.19517669999999,
+                        41.1865478
+                    ],
+                    [
+                        -71.4547891,
+                        42.9956397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#8a0115",
+                "marker-size": "medium",
+                "marker-symbol": 46,
+                "city": "Manchester",
+                "growth": 2.9,
+                "latitude": 42.9956397,
+                "longitude": -71.4547891,
+                "population": 110378,
+                "state": "New Hampshire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4547891,
+                    42.9956397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#8a0115",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -71.4547891,
+                        42.9956397
+                    ],
+                    [
+                        -71.4128343,
+                        41.8239891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#c65776",
+                "marker-size": "medium",
+                "marker-symbol": 47,
+                "city": "Providence",
+                "growth": 2.3,
+                "latitude": 41.8239891,
+                "longitude": -71.4128343,
+                "population": 177994,
+                "state": "Rhode Island"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4128343,
+                    41.8239891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#c65776",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -71.4128343,
+                        41.8239891
+                    ],
+                    [
+                        -71.0588801,
+                        42.3600825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#34f81e",
+                "marker-size": "medium",
+                "marker-symbol": 48,
+                "city": "Boston",
+                "growth": 9.4,
+                "latitude": 42.3600825,
+                "longitude": -71.0588801,
+                "population": 645966,
+                "state": "Massachusetts"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0588801,
+                    42.3600825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#34f81e",
+                "stroke-width": 4
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -71.0588801,
+                        42.3600825
+                    ],
+                    [
+                        -70.2553259,
+                        43.66147100000001
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#9987a0",
+                "marker-size": "medium",
+                "marker-symbol": 49,
+                "city": "Portland",
+                "growth": 3.2,
+                "latitude": 43.66147100000001,
+                "longitude": -70.2553259,
+                "population": 66318,
+                "state": "Maine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2553259,
+                    43.66147100000001
+                ]
+            }
+        }
+    ]
+}
