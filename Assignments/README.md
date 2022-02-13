@@ -1,5 +1,6 @@
 ##  Assignments Folder
 
-|   #   | Folder Link                                                                          | Assignment Description                             |
-| :---: | ------------------------------------------------------------------------------------ | -------------------------------------------------- |
-| P01   | [P01](https://github.com/DakTheProgrammer/4553-Spatial-DS/tree/main/Assignments/P01) | GeoJson that routes each states largest city in US |
+|   #   | Folder Link                                                                          | Assignment Description                                                                                   |
+| :---: | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| P01   | [P01](https://github.com/DakTheProgrammer/4553-Spatial-DS/tree/main/Assignments/P01) | GeoJson that routes each states largest city in US                                                       |
+| P01   | [P02](https://github.com/DakTheProgrammer/4553-Spatial-DS/tree/main/Assignments/P02) | Program that finds distances to all major cities and average distance of 100 nearest ufos from each city |

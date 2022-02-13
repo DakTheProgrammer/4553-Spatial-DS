@@ -1,0 +1,296 @@
+[
+    {
+        "city": "Portland",
+        "longitude": -122.676482,
+        "latitude": 45.523062,
+        "avgufo": 0.016859891035451387
+    },
+    {
+        "city": "Seattle",
+        "longitude": -122.332071,
+        "latitude": 47.606209,
+        "avgufo": 0.006675660533517651
+    },
+    {
+        "city": "Los Angeles",
+        "longitude": -118.243685,
+        "latitude": 34.052234,
+        "avgufo": 0.036282210771418126
+    },
+    {
+        "city": "Boise City",
+        "longitude": -116.214607,
+        "latitude": 43.61871,
+        "avgufo": 0.030371943174118236
+    },
+    {
+        "city": "Las Vegas",
+        "longitude": -115.13983,
+        "latitude": 36.169941,
+        "avgufo": 0.05486425227943442
+    },
+    {
+        "city": "Phoenix",
+        "longitude": -112.074037,
+        "latitude": 33.448377,
+        "avgufo": 0.09040822278573356
+    },
+    {
+        "city": "Salt Lake City",
+        "longitude": -111.891047,
+        "latitude": 40.760779,
+        "avgufo": 0.0570143648794637
+    },
+    {
+        "city": "Billings",
+        "longitude": -108.50069,
+        "latitude": 45.783286,
+        "avgufo": 0.2062699703331068
+    },
+    {
+        "city": "Albuquerque",
+        "longitude": -106.605553,
+        "latitude": 35.085334,
+        "avgufo": 0.01942261373417965
+    },
+    {
+        "city": "Denver",
+        "longitude": -104.990251,
+        "latitude": 39.739236,
+        "avgufo": 0.03146139420735259
+    },
+    {
+        "city": "Cheyenne",
+        "longitude": -104.820246,
+        "latitude": 41.139981,
+        "avgufo": 0.35365182436057746
+    },
+    {
+        "city": "Oklahoma City",
+        "longitude": -97.516428,
+        "latitude": 35.46756,
+        "avgufo": 0.010771756748221947
+    },
+    {
+        "city": "Wichita",
+        "longitude": -97.336111,
+        "latitude": 37.688889,
+        "avgufo": 0.009977950199569742
+    },
+    {
+        "city": "Fargo",
+        "longitude": -96.789803,
+        "latitude": 46.877186,
+        "avgufo": 0.5319073622097071
+    },
+    {
+        "city": "Sioux Falls",
+        "longitude": -96.731103,
+        "latitude": 43.544596,
+        "avgufo": 0.14043818206952488
+    },
+    {
+        "city": "Omaha",
+        "longitude": -95.997988,
+        "latitude": 41.252363,
+        "avgufo": 0.06688616859900533
+    },
+    {
+        "city": "Houston",
+        "longitude": -95.369803,
+        "latitude": 29.760427,
+        "avgufo": 0.08318697633982684
+    },
+    {
+        "city": "Kansas City",
+        "longitude": -94.578567,
+        "latitude": 39.099727,
+        "avgufo": 0.014131223314225169
+    },
+    {
+        "city": "Des Moines",
+        "longitude": -93.609106,
+        "latitude": 41.600545,
+        "avgufo": 0.009838337347220357
+    },
+    {
+        "city": "Minneapolis",
+        "longitude": -93.265011,
+        "latitude": 44.977753,
+        "avgufo": 0.02845867728592777
+    },
+    {
+        "city": "Little Rock",
+        "longitude": -92.289595,
+        "latitude": 34.746481,
+        "avgufo": 0.08661630381595047
+    },
+    {
+        "city": "Jackson",
+        "longitude": -90.18481,
+        "latitude": 32.298757,
+        "avgufo": 0.18465161465581406
+    },
+    {
+        "city": "New Orleans",
+        "longitude": -90.071532,
+        "latitude": 29.951066,
+        "avgufo": 0.04083140558324726
+    },
+    {
+        "city": "Memphis",
+        "longitude": -90.04898,
+        "latitude": 35.149534,
+        "avgufo": 0.12295343527384145
+    },
+    {
+        "city": "Milwaukee",
+        "longitude": -87.906474,
+        "latitude": 43.038902,
+        "avgufo": 0.05503082803716136
+    },
+    {
+        "city": "Chicago",
+        "longitude": -87.629798,
+        "latitude": 41.878114,
+        "avgufo": 0.03826224348034599
+    },
+    {
+        "city": "Birmingham",
+        "longitude": -86.80249,
+        "latitude": 33.520661,
+        "avgufo": 0.08381129260232993
+    },
+    {
+        "city": "Indianapolis",
+        "longitude": -86.158068,
+        "latitude": 39.768403,
+        "avgufo": 0.04232711894746972
+    },
+    {
+        "city": "Louisville/Jefferson County",
+        "longitude": -85.758456,
+        "latitude": 38.252665,
+        "avgufo": 0.07980647393612163
+    },
+    {
+        "city": "Atlanta",
+        "longitude": -84.387982,
+        "latitude": 33.748995,
+        "avgufo": 0.059740747545483336
+    },
+    {
+        "city": "Detroit",
+        "longitude": -83.045754,
+        "latitude": 42.331427,
+        "avgufo": 0.07277195941261018
+    },
+    {
+        "city": "Columbus",
+        "longitude": -82.998794,
+        "latitude": 39.961176,
+        "avgufo": 0.04224476120284712
+    },
+    {
+        "city": "Jacksonville",
+        "longitude": -81.655651,
+        "latitude": 30.332184,
+        "avgufo": 0.07618506313069504
+    },
+    {
+        "city": "Charleston",
+        "longitude": -81.632623,
+        "latitude": 38.34982,
+        "avgufo": 0.19548224550901533
+    },
+    {
+        "city": "Columbia",
+        "longitude": -81.034814,
+        "latitude": 34.00071,
+        "avgufo": 0.09107603894375647
+    },
+    {
+        "city": "Charlotte",
+        "longitude": -80.843127,
+        "latitude": 35.227087,
+        "avgufo": 0.02707721372607769
+    },
+    {
+        "city": "Washington",
+        "longitude": -77.036871,
+        "latitude": 38.907192,
+        "avgufo": 0.011878314807561246
+    },
+    {
+        "city": "Baltimore",
+        "longitude": -76.612189,
+        "latitude": 39.290385,
+        "avgufo": 0.022690661945180286
+    },
+    {
+        "city": "Virginia Beach",
+        "longitude": -75.977985,
+        "latitude": 36.852926,
+        "avgufo": 0.08540456524495703
+    },
+    {
+        "city": "Wilmington",
+        "longitude": -75.539788,
+        "latitude": 39.739072,
+        "avgufo": 0.09151471765069565
+    },
+    {
+        "city": "Philadelphia",
+        "longitude": -75.165222,
+        "latitude": 39.952584,
+        "avgufo": 0.0427205987210258
+    },
+    {
+        "city": "Newark",
+        "longitude": -74.172367,
+        "latitude": 40.735657,
+        "avgufo": 0.05096701444106973
+    },
+    {
+        "city": "New York",
+        "longitude": -74.005941,
+        "latitude": 40.712784,
+        "avgufo": 0.03640803765676317
+    },
+    {
+        "city": "Burlington",
+        "longitude": -73.212072,
+        "latitude": 44.475882,
+        "avgufo": 0.10340948795844163
+    },
+    {
+        "city": "Bridgeport",
+        "longitude": -73.195177,
+        "latitude": 41.186548,
+        "avgufo": 0.04527281099992455
+    },
+    {
+        "city": "Manchester",
+        "longitude": -71.454789,
+        "latitude": 42.99564,
+        "avgufo": 0.07099524500239247
+    },
+    {
+        "city": "Providence",
+        "longitude": -71.412834,
+        "latitude": 41.823989,
+        "avgufo": 0.03378617692525499
+    },
+    {
+        "city": "Boston",
+        "longitude": -71.05888,
+        "latitude": 42.360082,
+        "avgufo": 0.0203212750534969
+    },
+    {
+        "city": "Portland",
+        "longitude": -70.255326,
+        "latitude": 43.661471,
+        "avgufo": 0.0920724912061086
+    }
+]
