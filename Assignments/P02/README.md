@@ -8,7 +8,7 @@ Finds the distance to all other cities from program 1 and loads that information
 
 |   #   | File                                                                                                                                | Description                                                 |
 | :---: | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-|   1   | [Main.py](https://github.com/DakTheProgrammer/4553-Spatial-DS/blob/main/Assignments/P02/main.py)                                    | Main file that process all data and makes JSON files        |
+|   1   | [main.py](https://github.com/DakTheProgrammer/4553-Spatial-DS/blob/main/Assignments/P02/main.py)                                    | Main file that process all data and makes JSON files        |
 |   2   | [cities.geojson](https://github.com/DakTheProgrammer/4553-Spatial-DS/blob/main/Assignments/P02/cities.geojson)                      | File with major cities                                      |
 |   3   | [ufo_data.csv](https://github.com/DakTheProgrammer/4553-Spatial-DS/blob/main/Assignments/P02/ufo_data.csv)                          | File that contains ufo sightings                            |
 |   4   | [distances.json](https://github.com/DakTheProgrammer/4553-Spatial-DS/blob/main/Assignments/P02/distances.json)                      | File that has all the distances from each major city        |
