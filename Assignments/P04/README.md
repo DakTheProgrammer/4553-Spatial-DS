@@ -14,7 +14,7 @@ Creates a helper class that will be used in the next program that does various t
 
 ### Instructions
 
-- run main.py and watch the magic
+- run GeoHelper.py and watch the magic
 
 - Example Command:
-    - `python main.py`
+    - `python GeoHelper.py`

@@ -6,3 +6,4 @@
 | P02   | [P02](https://github.com/DakTheProgrammer/4553-Spatial-DS/tree/main/Assignments/P02) | Program that finds distances to all major cities and average distance of 100 nearest ufos from each city |
 | P03   | [P03](https://github.com/DakTheProgrammer/4553-Spatial-DS/tree/main/Assignments/P03) | Program that finds all ufos in a given voronoi diagram representing all major cities                     |
 | P04   | [P04](https://github.com/DakTheProgrammer/4553-Spatial-DS/tree/main/Assignments/P04) | Creation of a class to help aid in the making of "worldle" game                                          |
+| P05   | [P05](https://github.com/DakTheProgrammer/4553-Spatial-DS/tree/main/Assignments/P05) | Creation of an API using FastAPI to aid in the game development                                          |

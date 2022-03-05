@@ -65,7 +65,9 @@ class Geo:
         return distance[0]
 
     #takes in a weight that reduces the polygon
-    def reducePoints(self, poly, weight):
+    def reducePoints(self, name, weight):
+        poly = self.getPoly(name)
+
         series = geopandas.GeoSeries(Polygon(poly))
 
         poly = series.simplify(weight)[0]
@@ -81,6 +83,22 @@ class Geo:
         center = [series.centroid[0].x, series.centroid[0].y]
 
         return center
+
+    def getCountries(self):
+        out = []
+
+        for continents in self.__world:
+            for countries in self.__world[continents]:
+                out.append(countries['properties']['name'])
+
+        return out
+
+    def getContinent(self, name):
+        for continents in self.__world:
+            for countries in self.__world[continents]:
+                if name == countries['properties']['name']:
+                    return continents
+
 
     #used to output data
     def __geoJsonPoly(self, polys = None, points = None):
@@ -142,10 +160,4 @@ class Geo:
 if __name__ == "__main__":
     g = Geo()
 
-    poly1 = g.getPoly('Canada')
-    poly1 = g.reducePoints(poly1, .05)
-    
-    poly2 = g.getPoly('Germany')
-    poly2 = g.reducePoints(poly2, .05)
-
-    print(g.getDistance(poly1, poly2))
+    print(g.getContinent('Brazil'))
