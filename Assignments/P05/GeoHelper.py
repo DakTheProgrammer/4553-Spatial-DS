@@ -1,3 +1,4 @@
+from ctypes.wintypes import POINT
 import math
 import json
 import geopandas
@@ -23,46 +24,59 @@ class Geo:
         return poly
 
     #finds the distance between 2 nations with a reduction formula using a box to reduce bordering points
-    def getDistance(self, poly1, poly2):
-        center2 = self.getCenterPoint(poly1)
-        center1 = self.getCenterPoint(poly2)
+    def getDistance(self, poly1, poly2, algo):
+        if algo == True:
+            center2 = self.getCenterPoint(poly1)
+            center1 = self.getCenterPoint(poly2)
 
-        tempRec = [center1, [center1[0], center2[1]], center2, [center2[0], center1[1]]]
-        rec = Polygon(tempRec)
+            tempRec = [center1, [center1[0], center2[1]], center2, [center2[0], center1[1]]]
+            rec = Polygon(tempRec)
 
-        con1 = geopandas.GeoSeries(geopandas.points_from_xy([x[0] for x in poly1], [y[1] for y in poly1]))
-        con2 = geopandas.GeoSeries(geopandas.points_from_xy([x[0] for x in poly2], [y[1] for y in poly2]))
-        
-        #queries the borders with the rectangle
-        pi1 = con1.sindex.query(rec)
-        pi2 = con2.sindex.query(rec)
+            con1 = geopandas.GeoSeries(geopandas.points_from_xy([x[0] for x in poly1], [y[1] for y in poly1]))
+            con2 = geopandas.GeoSeries(geopandas.points_from_xy([x[0] for x in poly2], [y[1] for y in poly2]))
+            
+            #queries the borders with the rectangle
+            pi1 = con1.sindex.query(rec)
+            pi2 = con2.sindex.query(rec)
 
-        distance = []
+            distance = []
 
-        #finds distance between 2 points
-        for p1 in pi1:
-            for p2 in pi2:
-                distance.append(math.sqrt(((con1[p1].x - con2[p2].x)**2)+((con1[p1].y-con2[p2].y)**2))) 
+            #finds distance between 2 points
+            for p1 in pi1:
+                for p2 in pi2:
+                    distance.append(math.sqrt(((con1[p1].x - con2[p2].x)**2)+((con1[p1].y-con2[p2].y)**2))) 
+
+            ##########                output                      ####################
+            ##########################################################################
+            tempRec.append(tempRec[0])
+
+            ps = []
+
+            for points in pi1:
+                ps.append([con1[points].x, con1[points].y])
+
+            for points in pi2:
+                ps.append([con2[points].x, con2[points].y])
+
+            self.__geoJsonPoly(polys=[poly1, poly2, tempRec], points=ps)
+            ##########################################################################
+        else:
+            con1 = geopandas.GeoSeries(geopandas.points_from_xy([x[0] for x in poly1], [y[1] for y in poly1]))
+            con2 = geopandas.GeoSeries(geopandas.points_from_xy([x[0] for x in poly2], [y[1] for y in poly2]))
+
+            distance = []
+
+            for p1 in con1:
+                for p2 in con2:
+                    distance.append(math.sqrt(((p1.x - p2.x)**2)+((p1.y-p2.y)**2)))
 
         #finds shortest path
         distance.sort()
 
-        ##########                output                      ####################
-        ##########################################################################
-        tempRec.append(tempRec[0])
-
-        ps = []
-
-        for points in pi1:
-            ps.append([con1[points].x, con1[points].y])
-
-        for points in pi2:
-            ps.append([con2[points].x, con2[points].y])
-
-        self.__geoJsonPoly(polys=[poly1, poly2, tempRec], points=ps)
-        ##########################################################################
-
         return distance[0]
+
+            
+
 
     #takes in a weight that reduces the polygon
     def reducePoints(self, name, weight):
@@ -153,11 +167,14 @@ class Geo:
     def __countryDic(self, country):
         for continents in self.__world:
             for countries in self.__world[continents]:
-                if countries['properties']['name'] == country:
+                if countries['properties']['name'].lower() == country.lower():
                     return countries
         
 #testing
 if __name__ == "__main__":
     g = Geo()
 
-    print(g.getContinent('Brazil'))
+    p1 = g.reducePoints('Iran', .1)
+    p2 = g.reducePoints('Aruba', .1)
+
+    print(g.getDistance(p1, p2, False))
