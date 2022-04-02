@@ -176,7 +176,7 @@ function showCountry() {
             
             let defaultStyle = {
                 fillColor: color,
-                weight: 2,
+                weight: 1,
                 opacity: 1,
                 color: 'black',
                 fillOpacity: 1
