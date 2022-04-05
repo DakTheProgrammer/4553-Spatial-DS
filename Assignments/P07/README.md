@@ -19,3 +19,5 @@ Uses PyGame paired with an Quad Tree to visualize fast querying of points on a p
 
 - Example Command:
     - `python main.py`
+
+<img src="..\..\Images\P07.jpg" width="1000">
