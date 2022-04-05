@@ -13,14 +13,10 @@ class Rectangle():
     def draw(self):
         #if it doesn't move stay still
         if self.Moves == False:
-            pygame.draw.rect(self.screen, self.color,
-                            (self.x, self.y, self.width, self.height)
-                            )
+            pygame.draw.rect(self.screen, self.color, (self.x, self.y, self.width, self.height), 1)
         #if it moves move one unit to the right/move to the left side/stop
         else:
-            pygame.draw.rect(self.screen, self.color,
-                            (self.x, self.y, self.width, self.height)
-                            )
+            pygame.draw.rect(self.screen, self.color, (self.x, self.y, self.width, self.height), 1)
 
             #conditions for movement
             #go to left side        
